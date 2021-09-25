@@ -7337,11 +7337,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Aabhyas\\BookSharingOnLine\\BooksSharingOnlineAPI\\BooksSharingOnlineAPI\\BooksSharingOnlineAPI.csproj",
+      "projectUniqueName": "D:\\Aabhyas\\BooksSharingOnLine\\BooksSharingOnlineAPI\\BooksSharingOnlineAPI\\BooksSharingOnlineAPI.csproj",
       "projectName": "BooksSharingOnlineAPI",
-      "projectPath": "D:\\Aabhyas\\BookSharingOnLine\\BooksSharingOnlineAPI\\BooksSharingOnlineAPI\\BooksSharingOnlineAPI.csproj",
+      "projectPath": "D:\\Aabhyas\\BooksSharingOnLine\\BooksSharingOnlineAPI\\BooksSharingOnlineAPI\\BooksSharingOnlineAPI.csproj",
       "packagesPath": "C:\\Users\\spjum\\.nuget\\packages\\",
-      "outputPath": "D:\\Aabhyas\\BookSharingOnLine\\BooksSharingOnlineAPI\\BooksSharingOnlineAPI\\obj\\",
+      "outputPath": "D:\\Aabhyas\\BooksSharingOnLine\\BooksSharingOnlineAPI\\BooksSharingOnlineAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\spjum\\AppData\\Roaming\\NuGet\\NuGet.Config",
